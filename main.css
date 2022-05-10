@@ -10,3 +10,10 @@ p {
     width: 100%;
 }
 
+.admin {
+    width: 80%;
+}
+
+h1 {
+    font-size: 1.6em;
+}
